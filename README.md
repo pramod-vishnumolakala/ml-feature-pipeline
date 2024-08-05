@@ -50,10 +50,10 @@ Source Data (Redshift + S3)
 
 - **30% faster** model deployment via standardised feature contracts
 - **Automated validation** with Great Expectations on every feature run
-- **Reusable feature library** — 80+ features across 6 feature groups
+- **Reusable feature library** - 80+ features across 6 feature groups
 - **Point-in-time correct** feature joins to prevent data leakage
-- **Airflow DAGs** — automated daily/hourly feature refresh
-- **Feature registry** — versioned feature definitions with lineage
+- **Airflow DAGs** - automated daily/hourly feature refresh
+- **Feature registry** - versioned feature definitions with lineage
 
 ## Tech Stack
 
@@ -69,5 +69,5 @@ Source Data (Redshift + S3)
 
 ## Author
 
-**Pramod Vishnumolakala** — Senior Data Engineer  
+**Pramod Vishnumolakala** - Senior Data Engineer  
 [pramodvishnumolakala@gmail.com](mailto:pramodvishnumolakala@gmail.com) · [LinkedIn](https://linkedin.com/in/pramod-vishnumolakala)
